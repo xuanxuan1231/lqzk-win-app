@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "lqzk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "lqzk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
